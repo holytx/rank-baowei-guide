@@ -1,2 +1,14 @@
 # rank-baowei-guide
-HTML page archive and documentation
+
+自动页面托管记录
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
